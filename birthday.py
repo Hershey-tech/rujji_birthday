@@ -299,19 +299,19 @@ st.markdown("""
 st.markdown("""
 <div class='nav-grid'>
     <div class='nav-btn'>
-        <span class='nav-icon'>💌</span>Why Rujji is Special
+        <span class='nav-icon'>💌</span>Rujji is Special
     </div>
     <div class='nav-btn'>
-        <span class='nav-icon'>📸</span>Favorite Memories
+        <span class='nav-icon'>📸</span>Cutie Pookie 
     </div>
     <div class='nav-btn'>
-        <span class='nav-icon'>🌸</span>Little Things About You
+        <span class='nav-icon'>🌸</span>I Love The Whole Of You
     </div>
     <div class='nav-btn'>
-        <span class='nav-icon'>✨</span>Reasons You Make Life Better
+        <span class='nav-icon'>✨</span> You Make Life Better
     </div>
     <div class='nav-btn'>
-        <span class='nav-icon'>🧸</span>Tiny Cute Notes
+        <span class='nav-icon'>🧸</span> You Make Harsh Winters Cozy
     </div>
 </div>
 """, unsafe_allow_html=True)
